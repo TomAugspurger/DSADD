@@ -1,7 +1,7 @@
 Name Change
 ===========
 
-Hi. I changed the name of this library to `engarde`. Check it out [here](www.github.com/TomAugspurger/engarde).
+Hi. I changed the name of this library to `engarde`. Check it out [here](https://www.github.com/TomAugspurger/engarde).
 
 Data Scientists Against Dirty Data (DSADD)
 ==========================================
